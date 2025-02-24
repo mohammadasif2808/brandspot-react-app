@@ -10,7 +10,7 @@ BrandSpot is a modern, responsive web application built with React, designed to 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Project](#project url)
+- [Project](#project-url)
 - [Contact](#contact)
 
 ## Features
