@@ -10,6 +10,7 @@ BrandSpot is a modern, responsive web application built with React, designed to 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Project URL](#project url)
 - [Contact](#contact)
 
 ## Features
@@ -39,7 +40,7 @@ To set up the project locally, follow these steps:
 Usage
 Once the development server is running, you can access the application in your web browser at http://localhost:3000. Use the application to manage and analyze your brand's online presence.
 
-Contributing
+## Contributing
 Contributions are welcome! To contribute:
 
 Fork the repository.
@@ -49,8 +50,10 @@ Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-License
+## License
 
+## Project
+Project URL - https://mohammadasif2808.github.io/brandspot-react-app/
 
-Contact
+## Contact
 For questions or feedback, please contact [Mohammad Asif](mailto:mohammadasif2808@gmail.com).
