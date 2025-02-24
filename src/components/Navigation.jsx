@@ -2,7 +2,7 @@ const Navigation = () => {
     return (
         <nav className="container">
         <div className="logo">
-          <img src="/images/brand_logo.png" alt="log" />
+          <img src="/brandspot-react-app/images/brand_logo.png" alt="log" />
         </div>
         <ul>
           <li href="#">Menu</li>
